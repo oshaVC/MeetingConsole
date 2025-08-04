@@ -1,1 +1,3 @@
-Release for MeetingConsole app, for meeting rooms.
+# MeetingConsole
+
+Minimal AV control panel for meeting rooms.
