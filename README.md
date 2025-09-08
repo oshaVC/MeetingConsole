@@ -9,4 +9,5 @@ Download here:
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/85c9465b-d7de-4b2e-b03c-6f98e253525b" />
 
 # Vestergaard
-<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/90d613f4-dd08-44a7-89ec-3a8a469d3edc" />
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/58162784-de66-4a76-8926-bc9b04562e9f" />
+
