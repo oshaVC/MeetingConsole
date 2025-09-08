@@ -1,6 +1,7 @@
 # MeetingConsole
 
 Minimal AV control panel for meeting rooms.
+
 Download here:
 [![Latest release](https://img.shields.io/github/v/release/oshaVC/MeetingConsole?sort=semver)](https://github.com/oshaVC/MeetingConsole/releases/latest)
 
